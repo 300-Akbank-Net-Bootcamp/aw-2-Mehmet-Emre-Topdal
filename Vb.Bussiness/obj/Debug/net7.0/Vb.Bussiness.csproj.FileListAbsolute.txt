@@ -1,0 +1,11 @@
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Bussiness\bin\Debug\net7.0\Vb.Bussiness.deps.json
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Bussiness\bin\Debug\net7.0\Vb.Bussiness.dll
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Bussiness\bin\Debug\net7.0\Vb.Bussiness.pdb
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Bussiness\obj\Debug\net7.0\Vb.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Bussiness\obj\Debug\net7.0\Vb.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Bussiness\obj\Debug\net7.0\Vb.Bussiness.AssemblyInfo.cs
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Bussiness\obj\Debug\net7.0\Vb.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Bussiness\obj\Debug\net7.0\Vb.Bussiness.dll
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Bussiness\obj\Debug\net7.0\refint\Vb.Bussiness.dll
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Bussiness\obj\Debug\net7.0\Vb.Bussiness.pdb
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Bussiness\obj\Debug\net7.0\ref\Vb.Bussiness.dll

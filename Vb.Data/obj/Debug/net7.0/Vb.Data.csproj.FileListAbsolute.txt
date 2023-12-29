@@ -1,0 +1,17 @@
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\bin\Debug\net7.0\Vb.Data.deps.json
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\bin\Debug\net7.0\Vb.Data.runtimeconfig.json
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\bin\Debug\net7.0\Vb.Data.dll
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\bin\Debug\net7.0\Vb.Data.pdb
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\bin\Debug\net7.0\Vb.Base.dll
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\bin\Debug\net7.0\Vb.Base.pdb
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.AssemblyInfo.cs
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.csproj.CopyComplete
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.dll
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\obj\Debug\net7.0\refint\Vb.Data.dll
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.pdb
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.genruntimeconfig.cache
+C:\Users\Emre\Desktop\Akbank\pk-ab-main\VbApi\Vb.Data\obj\Debug\net7.0\ref\Vb.Data.dll
